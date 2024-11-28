@@ -1,5 +1,6 @@
 ---
-title: "About me"
+title: "This is an index"
+format:
+    html:
+        toc: true
 ---
-
-Goodbye, world!

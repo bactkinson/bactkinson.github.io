@@ -1,5 +1,6 @@
 ---
-title: "hello world"
+title: "This is an index"
+format:
+    html:
+        toc: true
 ---
-
-Hello, world!
