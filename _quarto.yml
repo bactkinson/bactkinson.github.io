@@ -8,10 +8,10 @@ website:
     left:
       - href: docs/index.qmd
         text: Home
-      - about.qmd
+      - docs/about.qmd
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    # css: styles.css
     toc: true
