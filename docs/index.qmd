@@ -1,0 +1,8 @@
+---
+title: "My document"
+format:
+  html:
+    toc: true    
+---
+
+Hello, world.
