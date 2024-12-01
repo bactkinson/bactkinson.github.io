@@ -1,8 +1,0 @@
----
-title: "My document"
-format:
-  html:
-    toc: true    
----
-
-Goodbye, world.
