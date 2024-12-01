@@ -1,5 +1,68 @@
 ---
-title: "About"
+title: "About Me"
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss  
+execute: 
+  echo: false
 ---
 
-About this site
+## In case you'd like to reach out, here's how:
+
+- **Email:** blakeactkinson@example.com
+- **LinkedIn:** linkedin.com/in/blake-actkinson
+- **GitHub:** github.com/bactkinson
+
+## Publications
+
+### Peer-Reviewed Journal Articles
+
+1. **Actkinson, B.** and Griffin, R. J. (2023). Detecting plumes in mobile air quality monitoring time series with density-based spatial clustering of applications with noise. *Atmospheric Measurement Techniques*, 16, 3547–3559.
+
+LINK: https://doi.org/10.5194/amt-16-3547-2023
+
+2. **Actkinson, B.**, Ensor, K., & Griffin, R. J. (2021). SIBaR: a new method for background quantification and removal from mobile air pollution measurements. *Atmospheric Measurement Techniques*, 14(8), 5809-5821.
+
+LINK: https://doi.org/10.5194/amt-14-5809-2021
+
+3. Miller, D. J., **Actkinson, B.**, Padilla, L., Griffin, R. J., Moore, K., Lewis, P. G. T., ... & Alvarez, R. A. (2020). Characterizing elevated urban air pollutant spatial patterns with mobile monitoring in Houston, Texas. *Environmental Science & Technology*, 54(4), 2133-2142.
+
+LINK: https://pubs.acs.org/doi/10.1021/acs.est.9b05523
+
+## What I'm up to
+
+### Environmental Engineer | GSI Environmental {.heading-right}
+*7/5/2022 - Present*
+
+- Developer of MAROS in R Shiny (Monitoring and Remediation Optimization Software)
+
+## Education
+
+### PhD, Environmental Engineering | Rice University {.heading-right}
+*May 2022*
+
+- Thesis: Development of Statistical Methods for Analyzing Mobile Air Pollution Measurements
+- Fellowship
+- Fellowship
+
+### B.S., Chemical Engineering | Washington University in St. Louis {.heading-right}
+*May 2022*
+
+- Magna Cum Laude
+- Tau Beta Pi
+
+## Languages/Frameworks
+
+::: {.skill-section}
+**Programming Languages:** R, Python, Matlab, HTML, CSS, bash
+**Tools & Technologies:** Git, GitHub, R Shiny, Quarto
+**Frameworks:** Quarto, R Shiny
+:::
+
+## Certifications
+
+- EIT, Texas
+
+---
