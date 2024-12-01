@@ -31,34 +31,34 @@ execute:
 
 [LINK](https://pubs.acs.org/doi/10.1021/acs.est.9b05523)
 
-## What I'm up to
+## What I'm up to {.heading-right}
 
-### Environmental Engineer | GSI Environmental {.heading-right}
+### Environmental Engineer | GSI Environmental 
 *7/5/2022 - Present*
 
 - Developer of MAROS in R Shiny (Monitoring and Remediation Optimization Software)
 
-## Education
+## Education {.heading-right}
 
-### PhD, Environmental Engineering | Rice University {.heading-right}
+### PhD, Environmental Engineering | Rice University 
 *May 2022*
 
-- Thesis: Development of Statistical Methods for Analyzing Mobile Air Pollution Measurements
-- Fellowship
-- Fellowship
+- Thesis: Development and Evaluation of Novel Statistical Methods for Mobile Air Pollution Measurements
+- Dotson Fellow
+- Texas Engineering Foundation Jimmy H. Smith Scholarship Recipient
 
-### B.S., Chemical Engineering | Washington University in St. Louis {.heading-right}
-*May 2022*
+### B.S., Chemical Engineering | Washington University in St. Louis 
+*May 2017*
 
 - Magna Cum Laude
 - Tau Beta Pi
 
-## Languages/Frameworks
+## Languages/Frameworks {.heading-right}
 
 ::: {.skill-section}
-**Programming Languages:** R, Python, Matlab, HTML, CSS, bash
-**Tools & Technologies:** Git, GitHub, R Shiny, Quarto
-**Frameworks:** Quarto, R Shiny
+- **Programming Languages:** R, Python, Matlab, SQL, HTML, CSS, bash
+- **Tools & Technologies:** Git, GitHub, PostgreSQL
+- **Frameworks:** Quarto, R Shiny
 :::
 
 ## Certifications
