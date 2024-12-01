@@ -1,7 +1,5 @@
 ---
-title: "testSite"
+title: "BlakeActkinson"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hey, my name is Blake. Welcome to my personal site. I'm interested in the intersection between statistics and environmental science. Feel free to click around and explore.
