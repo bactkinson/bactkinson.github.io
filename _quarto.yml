@@ -6,9 +6,9 @@ website:
   title: "today"
   navbar:
     left:
-      - href: docs/index.qmd
+      - href: index.qmd
         text: Home
-      - docs/about.qmd
+      - about.qmd
 
 format:
   html:
