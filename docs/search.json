@@ -2,30 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "testSite",
+    "title": "BlakeActkinson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hey, my name is Blake. Welcome to my personal site. I’m interested in the intersection between statistics and environmental science. Feel free to click around and explore."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Email: blakeactkinson@example.com\nLinkedIn: linkedin.com/in/blake-actkinson\nGitHub: github.com/bactkinson"
+    "text": "Email: blakeactkinson@gmail.com\nLinkedIn: linkedin.com/in/blake-actkinson\nGitHub: github.com/bactkinson"
   },
   {
     "objectID": "about.html#in-case-youd-like-to-reach-out-heres-how",
     "href": "about.html#in-case-youd-like-to-reach-out-heres-how",
     "title": "About Me",
     "section": "",
-    "text": "Email: blakeactkinson@example.com\nLinkedIn: linkedin.com/in/blake-actkinson\nGitHub: github.com/bactkinson"
+    "text": "Email: blakeactkinson@gmail.com\nLinkedIn: linkedin.com/in/blake-actkinson\nGitHub: github.com/bactkinson"
   },
   {
     "objectID": "about.html#publications",
     "href": "about.html#publications",
     "title": "About Me",
     "section": "Publications",
-    "text": "Publications\n\nPeer-Reviewed Journal Articles\n\nActkinson, B. and Griffin, R. J. (2023). Detecting plumes in mobile air quality monitoring time series with density-based spatial clustering of applications with noise. Atmospheric Measurement Techniques, 16, 3547–3559.\n\nLINK: https://doi.org/10.5194/amt-16-3547-2023\n\nActkinson, B., Ensor, K., & Griffin, R. J. (2021). SIBaR: a new method for background quantification and removal from mobile air pollution measurements. Atmospheric Measurement Techniques, 14(8), 5809-5821.\n\nLINK: https://doi.org/10.5194/amt-14-5809-2021\n\nMiller, D. J., Actkinson, B., Padilla, L., Griffin, R. J., Moore, K., Lewis, P. G. T., … & Alvarez, R. A. (2020). Characterizing elevated urban air pollutant spatial patterns with mobile monitoring in Houston, Texas. Environmental Science & Technology, 54(4), 2133-2142.\n\nLINK: https://pubs.acs.org/doi/10.1021/acs.est.9b05523"
+    "text": "Publications\n\nPeer-Reviewed Journal Articles\n\nActkinson, B. and Griffin, R. J. (2023). Detecting plumes in mobile air quality monitoring time series with density-based spatial clustering of applications with noise. Atmospheric Measurement Techniques, 16, 3547–3559.\n\nLINK\n\nActkinson, B., Ensor, K., & Griffin, R. J. (2021). SIBaR: a new method for background quantification and removal from mobile air pollution measurements. Atmospheric Measurement Techniques, 14(8), 5809-5821.\n\nLINK\n\nMiller, D. J., Actkinson, B., Padilla, L., Griffin, R. J., Moore, K., Lewis, P. G. T., … & Alvarez, R. A. (2020). Characterizing elevated urban air pollutant spatial patterns with mobile monitoring in Houston, Texas. Environmental Science & Technology, 54(4), 2133-2142.\n\nLINK"
   },
   {
     "objectID": "about.html#what-im-up-to",
