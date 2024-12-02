@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "BlakeActkinson",
     "section": "",
-    "text": "Hey, my name is Blake. Welcome to my personal site. I’m interested in the intersection between statistics and environmental science. Feel free to click around and explore.\n\n\n\nMobile"
+    "text": "Hey, my name is Blake. Welcome to my personal site. I’m interested in the intersection between statistics and environmental science. Feel free to click around and explore.\n\n\n\n\n\n\nIn graduate school, I worked on developing statistical methods for analyzing air pollution measurements taken from instruments on things that were moving, such as cars. While it may not seem obvious, analyzing these measurements gets pretty complicated since they vary in both time and space. I had a lot of fun writing an algorithm that could tackle these issues and called it State-Informed Background Removal, or SIBaR for short.\n\n\n\n\n\nFigure created by Michael H. Actkinson"
   },
   {
     "objectID": "about.html",
