@@ -9,14 +9,10 @@ Hey, my name is Blake. Welcome to my personal site. I'm interested in the inters
 ::: {#first-column}
 
 In graduate school, I worked on developing statistical methods for analyzing air pollution measurements taken from instruments on things that were moving, 
-such as cars. While it may not seem obvious, analyzing these measurements gets pretty complicated since they vary in both time and space. One thing that 
-can get a little complicated is determining background, or what the concentrations of air pollutants would be in a "clean" environment free from any nearby
+such as cars. While it may not seem obvious, analyzing these measurements gets pretty complicated since they vary in both time and space. One thing in particular that 
+gets a little complicated is determining background, or what the concentrations of air pollutants would be in a "clean" environment free from any nearby
 sources. Determining background is important because it enables you to subsequently determine how much a nearby source is contributing to observed air pollution. 
 
-I had a lot of fun writing an algorithm that could tackle background calculation and called it State-Informed Background Removal, or SIBaR for short. From a 
-high-level, SIBaR works by determining periods of time in which a moving air monitor is in a "clean" area and when it's in a "dirty" area, and then uses the 
-measurements in the clean area to estimate background in the dirtier areas. It uses a class of statistical models called Hidden Markov Models, or HMMs, to do so.
-A good source for learning about HMMs is a tutorial written by Lawrence Rabiner in IEEE, found ![here](https://www.tandfonline.com/doi/abs/10.1080/00401706.1991.10484833)
 :::
 
 ::: {#second-column}
@@ -24,3 +20,8 @@ A good source for learning about HMMs is a tutorial written by Lawrence Rabiner 
 :::
 
 ::::
+
+I had a lot of fun writing an algorithm that could tackle background calculation and called it State-Informed Background Removal, or SIBaR for short. From a 
+high-level, SIBaR works by determining periods of time in which a moving air monitor is in a "clean" area and when it's in a "dirty" area, and then uses the 
+measurements in the clean area to estimate background in the dirtier areas. It uses a class of statistical models called Hidden Markov Models, or HMMs, to do so.
+A good source for learning about HMMs is a tutorial written by Lawrence Rabiner in IEEE, found [here.](https://www.tandfonline.com/doi/abs/10.1080/00401706.1991.10484833)
